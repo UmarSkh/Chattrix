@@ -274,6 +274,8 @@ Contributions are always welcome! Feel free to fork the repository and make a pu
 - Make your changes.
 - Commit your changes (```git commit -m 'Add new feature'```).
 - Push to the branch (```git push origin feature-branch```).
-- Open a pull request.## Feedback
+- Open a pull request.
+
+## Feedback
 
 If you have any feedback, please let me know.
